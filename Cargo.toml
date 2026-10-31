@@ -1,0 +1,8 @@
+[package]
+name = "video-to-8mb"
+version = "0.1.0"
+edition = "2021"
+description = "Comprime vídeos a un límite de tamaño usando FFmpeg y GPU"
+license = "GPL-3.0-only"
+
+[dependencies]
